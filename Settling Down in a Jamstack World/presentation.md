@@ -45,31 +45,7 @@
 
 ![original](../assets/background/bg-green-twitter.png)
 
-[.header: #FFFFFF, text-scale(1.3), DM Serif Display]
-
-## We have two problems ...
-
-![inline](../assets/gif/is-there-a-problem.gif)
-
----
-
-![original](../assets/background/bg-green-twitter.png)
-
-[.header: #FFFFFF, text-scale(1.3), DM Serif Display]
-
-# 1. It's not productive
-
-![inline](../assets/gif/so-many-choices.gif)
-
----
-
-![original](../assets/background/bg-green-twitter.png)
-
-[.header: #FFFFFF, text-scale(1.3), DM Serif Display]
-
-# 2. We can't know everything.
-
-![inline](../assets/gif/i-know-everything.gif)
+![inline 135%](../assets/gif/so-many-choices.gif)
 
 ---
 
@@ -89,16 +65,8 @@
 
 ## 1) Create a starting point.
 
-[.column]
-
 - Decide on your preferred set of tools and services.
-- Create a _kit_ with those tools ready to go.
-
-[.column]
-
-Examples:
-
-- [@ample/gatsby-starter-ample](https://github.com/ample/gatsby-starter-ample)
+- Create a _kit_ with those tools ready to go. (e.g. [@ample/gatsby-starter-ample](https://github.com/ample/gatsby-starter-ample))
 
 ---
 
@@ -112,17 +80,9 @@ Examples:
 
 [.column]
 
-- Create and document processes.
-- Build tooling to support your go-to tools.
-- Share every update with your team. _Over_ share.
-
-[.column]
-
-Examples:
-
-- [@ample/dev-playbook](https://github.com/ample/dev-playbook)
-- [gatsby-remark-ample](https://github.com/ample/gatsby-starter-ample/tree/main/plugins/gatsby-remark-ample)
-- _Dev Code Share_
+- Create and document processes. (e.g. [@ample/dev-playbook](https://github.com/ample/dev-playbook))
+- Build tooling to support your go-to tools. (e.g. [gatsby-remark-ample](https://github.com/ample/gatsby-starter-ample/tree/main/plugins/gatsby-remark-ample))
+- Share every update with your team. _Over_ share. (e.g. _Dev Code Share_)
 
 ---
 
@@ -133,19 +93,9 @@ Examples:
 
 ## 3) Maintain curiosity.
 
-[.column]
-
-- Set aside time for research and development.
-- Question current toolset. Be able to answer, "Why?"
-- Make adjustments in small doses.
-
-[.column]
-
-Examples:
-
-- _Dev Lab_
-- _80% dev allocation_
-- _One Thing Rule_
+- Set aside time for research and development. (e.g. _80% allocation_)
+- Question current toolset. Be able to answer, "Why?" (e.g. _Dev Lab_)
+- Make adjustments in small doses. (e.g. _One Thing Rule_)
 
 ---
 
