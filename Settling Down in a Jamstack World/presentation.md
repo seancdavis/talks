@@ -115,6 +115,23 @@
 
 ---
 
+![original](../assets/background/bg-blue-twitter.png)
+
+[.header: #FFFFFF, alignment(left), text-scale(1.3), DM Serif Display]
+[.text: #FFFFFF, Source Serif Pro, alignment(center)]
+
+# Wrapping up ...
+
+### 1) Create a starting point.
+
+### 2) Work consistently.
+
+### 3) Maintain curiosity.
+
+<br><br>And don't forget to **have a little fun** along the way.
+
+---
+
 ![original](../assets/background/bg-shapes-logo-sandwich.png)
 
 # Thank You
