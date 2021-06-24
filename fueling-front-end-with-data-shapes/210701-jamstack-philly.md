@@ -1,81 +1,122 @@
-# Using the Front End with Data Shapes
+![original](../_assets/background/bg-shapes-logo.png)
 
-Sean C Davis
+# Fueling the Front End<br>with Data Shapes
 
-@seancdavis29
-seancdavis.com
-
----
-
-Hi, I'm Sean
-
-DX, @stackbit
+### Sean C Davis
 
 ---
 
-But today, I am ...
+![original](../_assets/slides/scd-intro.png)
 
 ---
 
-Front End Developer Advocate
+![original](../_assets/background/bg-blue-twitter.png)
 
-(pic)
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
----
-
-Our front ends are built to serve our back-ends
+# But today, I am ...
 
 ---
 
-Contentful
+![original](../_assets/background/bg-blue-twitter.png)
 
-- Space
-- Environment
-- Content Model
-- Entry
-- Field
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
----
+# Front End Developer Advocate
 
-Sanity
-
-- Project
-- Dataset
-- Document Type
-- Document
-- Field
+![inline 115%](../_assets/gif/ted-lasso-woohoo.gif)
 
 ---
 
-Perfect World
+![original](../_assets/background/bg-green-twitter.png)
+
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
+
+# Our **front ends** are **shaped** by the **APIs** (back ends) they use.
+
+---
+
+[.text: Source Code Pro, alignment(center)]
+
+[.column]
+
+![inline 50%](../_assets/logo/contentful-logo.png)
+
+<br>
+
+Space
+
+Environment
+
+Content Model
+
+Entry
+
+Field
+
+[.column]
+
+![inline 50%](../_assets/logo/sanity-logo.png)
+
+<br>
+
+Project
+
+Dataset
+
+Document Type
+
+Document
+
+Field
+
+---
+
+# In a perfect world ...
+
+---
 
 (sketch with missing middle layer)
 
 ---
 
-Introducing _The Middle_
+![original](../_assets/background/bg-shapes.png)
+
+### _Introducing_
+
+# The Middle
 
 ---
 
-Middle End?
+![original](../_assets/background/bg-shapes.png)
+
+### _Or ..._
+
+# Middle End?
 
 ---
 
-Middle Middle?
+![original](../_assets/background/bg-shapes.png)
+
+### _Or ..._
+
+# Middle Middle?
 
 ---
 
-The. Middle.
+![original](../_assets/background/bg-shapes.png)
 
-(Jimmy Eat World)
+### _No._
 
----
+# The Middle!
 
-Sketch / how it works
+![inline 100%](../_assets/gif/the-middle.gif)
 
 ---
 
 How the middle Works:
+
+(sketch???)
 
 1. Retrieves data from API (back end)
 1. Transforms and normalizes data for the front end
@@ -87,20 +128,30 @@ In an abstracted state, you can add "drivers" (i.e. plugins) to support new APIs
 
 ---
 
-Two approaches:
+![original](../_assets/background/bg-blue-twitter.png)
+
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
+[.text: #FFFFFF, Source Serif Pro]
+
+# Two Methods for Implementation
 
 1. Write to file.
 1. Deliver in real-time as an API.
 
 ---
 
-Benefits:
+![original](../_assets/background/bg-green-twitter.png)
+
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
+[.text: #FFFFFF, Source Serif Pro]
+
+# Two Primary Benefits
 
 1. Front and back can do their own thing.
 1. Front ends can be built consistently regardless of the source.
 
 ---
 
-Thank you!
+![original](../_assets/slides/scd-thank-you.png)
 
 ---
