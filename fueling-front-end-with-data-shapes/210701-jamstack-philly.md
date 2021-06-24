@@ -1,17 +1,106 @@
-- Quick Intro
-- Problem statement: Our front ends are built to serve the back-ends
-- Elaborate
-- Solution: Introducing a content layer as a way to abstract data to serve our front-ends
-  - A middle layer to build a handshake between our backends (APIs) and our front ends
-- Benefits:
-  - Neither have to serve the other, but can do their own thing in their own way.
-  - Build front ends consistently from project to project.
-- How it works:
-  - The content layer "engine" retrieves data from the
-  - Need to support a new source? Add a driver to the engine and transform/normalize the data.
-  - Nothing changes on the front end.
-- Two approaches
-  1. Normalized engine that writes data to file (markdown, JSON), and the front end consumes those data objects.
-     - Better for content that can be static or only partially real-time, or specific to builds. (think: prerendered website)
-  2. A hosted solution that pulls in content on the fly. (GraphQL is a good fit here)
-- Wrap it up
+# Using the Front End with Data Shapes
+
+Sean C Davis
+
+@seancdavis29
+seancdavis.com
+
+---
+
+Hi, I'm Sean
+
+DX, @stackbit
+
+---
+
+But today, I am ...
+
+---
+
+Front End Developer Advocate
+
+(pic)
+
+---
+
+Our front ends are built to serve our back-ends
+
+---
+
+Contentful
+
+- Space
+- Environment
+- Content Model
+- Entry
+- Field
+
+---
+
+Sanity
+
+- Project
+- Dataset
+- Document Type
+- Document
+- Field
+
+---
+
+Perfect World
+
+(sketch with missing middle layer)
+
+---
+
+Introducing _The Middle_
+
+---
+
+Middle End?
+
+---
+
+Middle Middle?
+
+---
+
+The. Middle.
+
+(Jimmy Eat World)
+
+---
+
+Sketch / how it works
+
+---
+
+How the middle Works:
+
+1. Retrieves data from API (back end)
+1. Transforms and normalizes data for the front end
+1. Makes data available to the front end
+
+---
+
+In an abstracted state, you can add "drivers" (i.e. plugins) to support new APIs.
+
+---
+
+Two approaches:
+
+1. Write to file.
+1. Deliver in real-time as an API.
+
+---
+
+Benefits:
+
+1. Front and back can do their own thing.
+1. Front ends can be built consistently regardless of the source.
+
+---
+
+Thank you!
+
+---
