@@ -1,3 +1,5 @@
+build-lists: true
+
 ![original](../_assets/background/bg-shapes-logo.png)
 
 # Fueling the Front End<br>with Data Shapes
@@ -24,7 +26,7 @@
 
 # Front End Developer Advocate
 
-![inline 115%](../_assets/gif/ted-lasso-woohoo.gif)
+![inline 115%](images/ted-lasso-woohoo.gif)
 
 ---
 
@@ -33,6 +35,10 @@
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
 # Our **front ends** are **shaped** by the **APIs** (back ends) they use.
+
+---
+
+![inline](images/210626-middle-layer-before.png)
 
 ---
 
@@ -72,11 +78,15 @@ Field
 
 ---
 
+![original](../_assets/background/bg-blue-twitter.png)
+
+[.header: #FFFFFF, DM Serif Display, alignment(center), text-scale(1.25)]
+
 # In a perfect world ...
 
 ---
 
-(sketch with missing middle layer)
+![inline](images/210626-middle-layer-missing.png)
 
 ---
 
@@ -110,39 +120,52 @@ Field
 
 # The Middle!
 
-![inline 100%](../_assets/gif/the-middle.gif)
+![inline 100%](images/the-middle.gif)
 
 ---
 
-How the middle Works:
+![original](../_assets/background/bg-blue-twitter.png)
 
-(sketch???)
+[.header: #FFFFFF, DM Serif Display, alignment(center)]
+[.text: #FFFFFF, Source Serif Pro]
+
+# How "The Middle" Works
 
 1. Retrieves data from API (back end)
-1. Transforms and normalizes data for the front end
+1. Transforms and normalizes data
 1. Makes data available to the front end
 
 ---
 
-In an abstracted state, you can add "drivers" (i.e. plugins) to support new APIs.
+![original](../_assets/background/bg-green-twitter.png)
+
+[.header: #FFFFFF, DM Serif Display, alignment(center), text-scale(1.25)]
+
+### Two Methods of
+
+# Implementation
+
+---
+
+![inline](images/210626-middle-layer-approaches.png)
 
 ---
 
 ![original](../_assets/background/bg-blue-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
-[.text: #FFFFFF, Source Serif Pro]
 
-# Two Methods for Implementation
+# In an **abstracted state**, you can add **"drivers"** (plugins) to support **multiple APIs**.
 
-1. Write to file.
-1. Deliver in real-time as an API.
+---
+
+![original](images/210626-middle-layer-drivers.png)
 
 ---
 
 ![original](../_assets/background/bg-green-twitter.png)
 
-[.header: #FFFFFF, Source Serif Pro, alignment(center)]
+[.header: #FFFFFF, DM Serif Display, alignment(center)]
 [.text: #FFFFFF, Source Serif Pro]
 
 # Two Primary Benefits
@@ -153,5 +176,3 @@ In an abstracted state, you can add "drivers" (i.e. plugins) to support new APIs
 ---
 
 ![original](../_assets/slides/scd-thank-you.png)
-
----
