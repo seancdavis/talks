@@ -24,7 +24,7 @@ build-lists: true
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
-# Front End Developer Advocate
+# Front End Advocate
 
 ![inline 115%](images/ted-lasso-woohoo.gif)
 
@@ -35,10 +35,6 @@ build-lists: true
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
 # Our **front ends** are **shaped** by the **APIs** (back ends) they use.
-
----
-
-![inline](images/210626-middle-layer-before.png)
 
 ---
 
@@ -78,6 +74,10 @@ Field
 
 ---
 
+![inline](images/210626-middle-layer-before.png)
+
+---
+
 ![original](../_assets/background/bg-blue-twitter.png)
 
 [.header: #FFFFFF, DM Serif Display, alignment(center), text-scale(1.25)]
@@ -92,9 +92,17 @@ Field
 
 ![original](../_assets/background/bg-shapes.png)
 
-### _Introducing_
+### _Introducing_ ...
 
-# The Middle
+# The Middle!
+
+---
+
+![original](../_assets/background/bg-shapes.png)
+
+### ( _Nope._ )
+
+![inline 100%](images/the-middle.gif)
 
 ---
 
@@ -116,11 +124,17 @@ Field
 
 ![original](../_assets/background/bg-shapes.png)
 
-### _No._
+### _Or ..._
 
-# The Middle!
+# Middle Layer?
 
-![inline 100%](images/the-middle.gif)
+---
+
+![original](../_assets/background/bg-shapes.png)
+
+### ( _Help!_ )
+
+![inline 100%](images/schitts-creek-help.gif)
 
 ---
 
@@ -129,7 +143,7 @@ Field
 [.header: #FFFFFF, DM Serif Display, alignment(center)]
 [.text: #FFFFFF, Source Serif Pro]
 
-# How "The Middle" Works
+# How _The Middle Layer_ Works
 
 1. Retrieves data from API (back end)
 1. Transforms and normalizes data
