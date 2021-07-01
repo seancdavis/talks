@@ -2,7 +2,7 @@ build-lists: true
 
 ![original](../_assets/background/bg-shapes-logo.png)
 
-# Fueling the Front End<br>with Data Shapes
+# Shaping Data to Fuel a<br>Front-End Engine
 
 ### Sean C Davis
 
