@@ -1,45 +1,89 @@
-Balancing Flexibility & Productivity in Content Modeling
+build-lists: true
 
-Sean C Davis
+![original](../_assets/background/bg-shapes-logo.png)
 
-@seancdavis29
+# Balancing<br>_Flexibility_ & _Productivity_<br>in Content Modeling
 
-seancdavis.com
-
----
-
-I have a sad story to share.
+### Sean C Davis
 
 ---
 
-Everyone hates their CMS
+![](images/disney-intro.gif)
 
 ---
 
-Let's change that!
+![original](images/inside-out-sad.gif)
+
+[.header: #FFFFFF, alignment(left), DM Serif Display, text-scale(1.25)]
+
+# It begins
+
+## with a sad story.
+
+---
+
+![original](images/hercules-rage.gif)
+
+[.header: #FFFFFF, DM Serif Display, text-scale(1.25)]
+
+# [fit] _Everyone_
+
+## [fit] hates their CMS.
+
+---
+
+![original](images/goofy-despair.gif)
+
+[.header: #FFFFFF, DM Serif Display]
+
+# [fit] And just when all seems lost ...
+
+---
+
+![original](images/mulan-hero.gif)
+
+[.header: #FFFFFF, DM Serif Display, text-scale(1.25)]
+
+# [fit] We find a way ...
 
 ^ I'm going to show you how to make people love it. (Or hate it less.)
 
 ---
 
-PAUSE!
+![original](images/lion-king-love.gif)
+
+[.header: #FFFFFF, DM Serif Display, text-scale(1.25)]
+
+# [fit] ... to love our CMS again!
 
 ---
 
-Sean C Davis
+![original](images/disney-fireworks.gif)
+
+[.header: #FFFFFF, DM Serif Display, text-scale(1.25)]
+
+# [fit] THE END
 
 ---
 
-C
+![original](images/aristocats-pause.gif)
+
+[.text-emphasis: DM Serif Display]
+[.header: #FFFFFF, alignment(left), DM Serif Display, text-scale(1.5)]
+
+### ~~Pause!~~
+
+# Paws!
 
 ---
 
-DX @stackbit
-(as of 2 days ago)
+![original](../_assets/slides/scd-intro.png)
+
+^ Three things about me ...
 
 ---
 
-@seancdavis29
+# [fit] C
 
 ---
 
