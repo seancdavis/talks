@@ -1,3 +1,4 @@
+theme: Basic Talk
 build-lists: true
 
 ![original](../_assets/background/bg-shapes-logo.png)
@@ -87,155 +88,348 @@ build-lists: true
 
 ---
 
-Stella
+(Photo of Stella)
 
 ---
 
-I ❤️ sandwiches and stories
+![original](../_assets/background/bg-shapes.png)
+
+# I ❤️ sandwiches and stories.
 
 ^ Let me tell you a story. (We'll talk about sandwiches a bit, too. But later.)
 
 ---
 
-Content Management Systems
+![original](../_assets/background/bg-green-twitter.png)
 
-A brief history
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
----
-
-Monolithic CMS
-
-(The WordPress Era)
+# There are **three types** of<br>content management systems,<br>distinguished by how the _front end_ **consumes content**.
 
 ---
 
-Headless CMS
+![original](../_assets/background/bg-blank.png)
 
-(The Jamstack Way)
+# 1. Monolithic CMS
+
+### _(Direct Database Access)_
+
+<br>
+
+![inline 40%](../_assets/logo/wordpress-logo.png)![inline 40%](../_assets/logo/squarespace-logo.png)
+
+<br>
+
+![inline 25%](../_assets/logo/rails-logo.png)![inline 25%](../_assets/logo/shopify-logo.png)![inline 15%](../_assets/logo/wix-logo.png)
 
 ---
 
-With great power comes ...
+![original](../_assets/background/bg-blank.png)
+
+# 2. Decoupled/Headless CMS
+
+### _(API-Driven)_
+
+<br>
+
+![inline 25%](../_assets/logo/contentful-logo.png)![inline 25%](../_assets/logo/sanity-logo.png)![inline 25%](../_assets/logo/prismic-logo.png)
+
+<br>
+
+![inline 35%](../_assets/logo/wordpress-logo.png)![inline 30%](../_assets/logo/agility-logo.png)
+
+---
+
+![original](../_assets/background/bg-blank.png)
+
+# 3. Git-Based CMS
+
+### _(Embedded Files)_
+
+<br>
+
+![inline 40%](../_assets/logo/forestry-logo.png)![inline 40%](../_assets/logo/netlify-cms-logo.png)
+
+<br>
+
+![inline 40%](../_assets/logo/stackbit-logo.png)
+
+---
+
+![original](../_assets/background/bg-blank.png)
+
+# Benefits Over Monolithic CMS
+
+[.column]
+
+## Decoupled
+
+- Front-end flexibility
+- Future-proof
+- Omnichannel
+- Scalable
+
+[.column]
+
+## Git-Based
+
+- Cost
+- Scalable
+- Developer experience
+- Ownership
+
+---
+
+![original](../_assets/background/bg-blank.png)
+
+[.header: alignment(left), Source Serif Pro]
+
+# With<br>**great power**<br>comes<br>**great _headaches_**.
+
+![left](images/aladdin-power.gif)
 
 ^ headless cms empowers developers, but with great power comes great responsibility
 
 ---
 
-Money graphic?
+![original](../_assets/background/bg-blank.png)
+![right](images/robin-hood-money.gif)
+
+[.header: alignment(right), Source Serif Pro]
+
+# _Like ..._<br>**managing cost**.
+
+# _Or ..._<br>building a<br>**content schema** from scratch.
 
 ^ Like being responsible for how your decisions affect cost
 
 ---
 
-My theory: We can find a balanced approach that makes both developers and editors happy in this headless world.
+![original](../_assets/background/bg-blue-twitter.png)
+
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
+
+# I believe we can find a<br>**_balanced_ approach**<br>that makes **developers**<br>_and_ **content editors** happy.
 
 ---
 
-Let's start with the content editors
+![original](../_assets/background/bg-yellow-twitter.png)
+
+[.header: #051C28, Source Serif Pro, alignment(center)]
+
+# Let's start by making our<br>**content editors** happy.
 
 ---
 
-Show page design
+![original](../_assets/background/bg-blank.png)
+![right fit](images/design--home-page--blurred.png)
 
-^ Setting up the example here. We want to provide a CMS experience for this design, and then we want to implement that content in our front end code.
+[.header: alignment(right), Source Serif Pro]
 
----
+# Let's build a<br>**CMS experience** for this design.
 
-How would you model the content for that page?
-
----
-
-Ultimate flexibility
-
-^ Maybe a graphic with the CMS experience. Or maybe just excalidraw.
+# Then we'll write the<br>**front end** code.
 
 ---
 
-Sandwich
+![original](../_assets/background/bg-orange-twitter.png)
+
+[.header: #261000, Source Serif Pro, alignment(center)]
+
+# The two extremes of<br>**content modeling** ...
+
+^ How would you model<br>the content for that page?
+
+---
+
+# Ultimate Flexibility
+
+![original](../_assets/background/bg-grey.png)
+
+![inline fit](images/210709-flexible-page-form.png)
+
+![right fit](images/design--home-page--blurred.png)
+
+---
+
+# Ultimate Flexibility
+
+![original](../_assets/background/bg-grey.png)
+
+![inline fit](images/weird-sandwich.jpg)
+
+![right fit](images/design--home-page--blurred.png)
 
 ^ Like a sandwich you make in your own kitchen. You can do whatever you want. But you have to decide and you have to do the work. Like peanut butter and mayonnaise, Grandma White.
 
 ---
 
-Ultimate rigidity (productivity)
+![original](../_assets/background/bg-lime-twitter.png)
+
+[.header: #000000, Source Serif Pro, alignment(center)]
+
+# When you choose **flexibility**,<br>your content editors can<br>**do whatever they want**, but it **requires technical knowledge** and (usually) **isn't productive**.
+
+---
+
+## Ultimate Productivity
+
+![original](../_assets/background/bg-grey.png)
+
+![inline fit](images/210709-rigid-page-form.png)
+
+![right fit](images/design--home-page--blurred.png)
 
 ^ Maybe a graphic with the CMS experience. Or maybe just excalidraw.
 
 ---
 
-Sandwich
+## Ultimate Productivity
+
+![original](../_assets/background/bg-grey.png)
+
+![inline fit](images/deli-sandwich.jpg)
+
+![right fit](images/design--home-page--blurred.png)
 
 ^ Like a sandwich you buy in a deli. I have this local deli that has dozens of options, but it names every ingredient that will go on the sandwich ahead of time. Like a reuben. I say "Reuben" and I know what to expect.
 
 ---
 
-Finding a balance
+![original](../_assets/background/bg-pink-twitter.png)
+
+[.header: #1B3846, Source Serif Pro, alignment(center)]
+
+# When you choose **productivity**, content editors can **move fast**,<br>but they are stuck to a<br>**specific implementation**.
+
+---
+
+![original](../_assets/background/bg-shapes.png)
+
+[.header: #000000, Source Serif Pro, alignment(center)]
+
+# [fit] The key is to find<br>the perfect **balance** of<br>**flexibility** and **productivity**.
 
 ^ We know we want to find a balance in here, but how do we do that?
 
 ---
 
-Let's talk about developers
+![original](../_assets/background/bg-green-twitter.png)
+
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
+
+# Now we can make<br>our developers happy!
+
+### (Finally.)
 
 ^ The coolest people ever. Our rockstars. Overselling it?
 
 ---
 
-Two best practices in building front ends:
+![original](../_assets/background/bg-blue-twitter.png)
+
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
+
+# Two (of many) **best practices** when building websites today ...
 
 ---
 
-First, Components
+![original](../_assets/background/bg-blank.png)
+
+# [fit] 1. Use a Component-Based Framework
+
+<br>
+
+![inline fit](../_assets/logo/react-logo.png)![inline fit 25%](../_assets/logo/nextjs-logo.png)![inline fit 30%](../_assets/logo/gatsby-logo.png)
+
+<br>
+
+![inline fit](../_assets/logo/vuejs-logo.png)![inline fit 40%](../_assets/logo/nuxtjs-logo.png)![inline fit](../_assets/logo/eleventy-logo.png)
 
 ^ We build websites with components these days (server or client) to reduce duplicated code. Thinking of a website in terms of a global system makes it easier to add and edit over time.
 
 ---
 
-Second, separating content from presentation
+![original](../_assets/background/bg-blank.png)
+
+# [fit] 2. Separate Content from Presentation
+
+![inline](images/210608--content-drive--after--transparent.png)
 
 ^ Separating content from presentation (no need to have a cms with _ultimate_ flexibility. that's what code is for)
 
 ---
 
-Taking those practices to the CMS
+![original](../_assets/background/bg-yellow-twitter.png)
+
+[.header: #051C28, Source Serif Pro, alignment(center)]
+
+# We can apply those same<br>principles to our CMS.
 
 ^ How do those practices translate to the CMS?
 
 ---
 
-Break up pages by components
+![original](../_assets/background/bg-orange-twitter.png)
+
+[.header: #261000, Source Serif Pro, alignment(center)]
+
+# Let's break our home page up into **_reusable_ components**.
 
 ---
 
-(Look at the design, broken up by components)
+![original fit](images/home-page-components.png)
 
 ---
 
-Then, extract the content
+![original](../_assets/background/bg-lime-twitter.png)
+
+[.header: #000000, Source Serif Pro, alignment(center)]
+
+# How might we **extract the content** so that we can **deliver** it to the code?
 
 ---
 
 Maybe this is just a JSON representation of the content we want to store as data.
 
+(I don't know if this is right yet)
+
+```json
+{
+  "jumbotron": {
+    "title": "Free Sandwiches for Everyone!",
+    "body": "We are a non-profit organization solely dedicated to ensuring everyone gets a free sandwich.",
+    "image": "sandwich.svg",
+    "button": {
+      "label": "Get Involved!",
+      "url": "/contact"
+    }
+  },
+  "card_group" ...
+}
+```
+
 ---
 
-How to model this behavior?
+![original](../_assets/background/bg-pink-twitter.png)
+
+[.header: #1B3846, Source Serif Pro, alignment(center)]
+
+# How do we model this content?
 
 ^ Modeling affects cost many times.
 
 ---
 
-First, say you have a generic Page model ...
-
----
-
 Three methods:
+
+^ Say you have a generic Page model ...
 
 ---
 
 1. New model for each component with associations
 
-screenshot with contentful, or maybe that's a new slide
+Screenshot with Contentful, or maybe that's a new slide
 
 ---
 
