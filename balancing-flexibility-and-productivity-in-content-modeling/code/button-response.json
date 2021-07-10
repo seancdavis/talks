@@ -1,0 +1,11 @@
+{
+  "title": "Free Sandwiches for Everyone!",
+  "components": [
+    {
+      "type": "button",
+      "label": "Get Involved",
+      "url": "/contact"
+    }
+    // ...
+  ]
+}

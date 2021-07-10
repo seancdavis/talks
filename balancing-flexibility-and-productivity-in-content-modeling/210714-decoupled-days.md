@@ -390,24 +390,7 @@ build-lists: true
 
 ---
 
-Maybe this is just a JSON representation of the content we want to store as data.
-
-(I don't know if this is right yet)
-
-```json
-{
-  "jumbotron": {
-    "title": "Free Sandwiches for Everyone!",
-    "body": "We are a non-profit organization solely dedicated to ensuring everyone gets a free sandwich.",
-    "image": "sandwich.svg",
-    "button": {
-      "label": "Get Involved!",
-      "url": "/contact"
-    }
-  },
-  "card_group" ...
-}
-```
+Show code here and then come back to it later when talking about transformers and mappers.
 
 ---
 
@@ -415,73 +398,178 @@ Maybe this is just a JSON representation of the content we want to store as data
 
 [.header: #1B3846, Source Serif Pro, alignment(center)]
 
-# How do we model this content?
+# How do we **structure** (or _model_)<br>this content in a **CMS**?
+
+NOTE: I think this should be more about applying "the ultimately flexible page" to "building with components" and how that can be modeled.
 
 ^ Modeling affects cost many times.
 
 ---
 
-Three methods:
+![original](../_assets/background/bg-blank.png)
 
-^ Say you have a generic Page model ...
+#### _Option #1_
 
----
+## [fit] Associated<br>Component Records
 
-1. New model for each component with associations
-
-Screenshot with Contentful, or maybe that's a new slide
+![right 40%](images/210710-associated-components--page-only.png)
 
 ---
 
-2. Conditional fields
+![original](../_assets/background/bg-blank.png)
+
+![inline](images/210710-associated-components.png)
+
+---
+
+![original](../_assets/background/bg-blank.png)
+
+#### _Option #2_
+
+## [fit] Embedded<br>Component Fields
+
+![right fit](images/210710-embedded-components.png)
+
+---
+
+![original](../_assets/background/bg-blank.png)
+
+# Comparing the Options
+
+[.column]
+
+### Associated Records
+
+- Reusability
+- Pricing tier limitations
+- Unlimited nestable layers
+
+[.column]
+
+### Embedded Fields
+
+- Works well with git-based CMS
+- All page content in one place
+- Lower cost
+- CMS limitations
+
+---
+
+<!-- ![original](../_assets/background/bg-green-twitter.png) -->
+
+<!-- [.header: #FFFFFF, Source Serif Pro, alignment(center)] -->
+
+This should be a sentence on how cost, CMS choices, and content modeling are all inter-dependent on one another.
+
+---
+
+![original](../_assets/background/bg-blank.png)
+
+# CMS Hack: Conditional Fields
+
+![inline](images/210710-conditional-fields.png)
 
 ^ Which CMS does this well?
 
----
+^ I think ... remove this one and focus on storing content as whether it should be attached to the page or associated with it. And that it usually is a result of 1) CMS capabilities, and 2) cost (cost is often associated with number of records or models)
 
-3. Modular content
-
-Forestry
+^ Or ... maybe this is an option that comes after as its own sort of thing. As a way to get around cost. Technically conditional fields could be used with either method (embedded or associated), but it's not a great practice if it can be avoided.
 
 ---
 
-The Ultimately Flexible Page!
+![original](../_assets/background/bg-blue-twitter.png)
 
-^ Once you have a pattern for components you have the ultimately flexible page (i.e. a Page model)
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
----
-
-Show this in action -- title, meta, and components fields
+# With a _flexible_ page model in place, we can **build the front end**, maintaining _parity_ with **the CMS**.
 
 ---
 
-Back to the front end
+![original](../_assets/background/bg-blank.png)
+
+# Simple Data Flow
+
+![inline](images/210710-simple-data-flow.png)
 
 ---
 
-Graphic of the data flow.
+![original](../_assets/background/bg-blank.png)
 
-^ Walk through the flow. It should include mappers and transformers
+# Expanded Data Flow
 
----
-
-Zoom in and elaborate on mappers.
-
-Code sample may help, too.
+![inline](images/210710-expanded-data-flow.png)
 
 ---
 
-Zoom in and elaborate on transformers.
+![original](../_assets/background/bg-blank.png)
 
-Code sample may help, too.
+# Expanded Data Flow
 
----
-
-Using this approach, you can build the ultimately flexible page on the front-end.
+![inline](images/210710-expanded-data-flow--zoomed.png)
 
 ---
 
-Clean hands (our work is done, right?)
+![original](../_assets/background/bg-blank.png)
+
+### _An Example_
+
+## Page API Response
+
+![inline 60%](images/code--button-api-response.png)
+
+---
+
+![original](../_assets/background/bg-orange-twitter.png)
+
+[.header: #261000, Source Serif Pro, alignment(center)]
+
+# _Transformers_ enable us to take data from any source and **shape it** for our **components**.
+
+---
+
+![original](../_assets/background/bg-blank.png)
+
+# Button Transformer
+
+![inline](images/code--button-transformer.png)
+
+---
+
+![original](../_assets/background/bg-lime-twitter.png)
+
+[.header: #000000, Source Serif Pro, alignment(center)]
+
+# _Mappers_ enable a _page_ to **dynamically render components** based on data from the **CMS**.
+
+---
+
+![original](../_assets/background/bg-blank.png)
+
+# Button Mapper
+
+![inline 60%](images/code--button-mapper.png)
+
+---
+
+![original](../_assets/background/bg-pink-twitter.png)
+
+[.header: #1B3846, Source Serif Pro, alignment(center)]
+
+# Using _transformers_ and _mappers_, you can build **the ultimately flexible page** on the front end.
+
+---
+
+![original](../_assets/background/bg-blank.png)
+
+[.header: alignment(right), Source Serif Pro, text-scale(1.25)]
+
+# **_Hooray!_**
+
+## We're all done!
+
+## Right?
+
+![right](images/snow-white-happy.gif)
 
 ---
 
