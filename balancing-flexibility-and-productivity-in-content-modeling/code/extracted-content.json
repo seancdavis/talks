@@ -1,0 +1,20 @@
+{
+  "title": "Home Page",
+  "components": [
+    {
+      "type": "jumbotron",
+      "title": "Free Sandwiches for Everyone!",
+      "body": "We are a non-profit organization ...",
+      "image": "sandwich.svg",
+      "button": { "label": "Get Involved!", "url": "/contact" }
+    },
+    {
+      "type": "card_group",
+      "heading": "How it Works",
+      "cards": [
+        { "type": "card", "color": "yellow", "number": "1" /* ... */ }
+        // ...
+      ]
+    }
+  ]
+}

@@ -100,6 +100,20 @@ build-lists: true
 
 ---
 
+![original](../_assets/background/bg-shapes.png)
+
+[.text: alignment(center), Source Serif Pro]
+
+# Spot the Sandwich!
+
+There is a hidden sandwich somewhere in the coming slides.
+
+When you find it, go to **sandwichspot.dev** and fill out the form.
+
+First correct answer wins some super cool Stackbit swag!
+
+---
+
 ![original](../_assets/background/bg-green-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
@@ -390,7 +404,30 @@ build-lists: true
 
 ---
 
-Show code here and then come back to it later when talking about transformers and mappers.
+![original](../_assets/background/bg-blank.png)
+
+```json
+{
+  "title": "Home Page",
+  "components": [
+    {
+      "type": "jumbotron",
+      "title": "Free Sandwiches for Everyone!",
+      "body": "We are a non-profit organization ...",
+      "image": "sandwich.svg",
+      "button": { "label": "Get Involved!", "url": "/contact" }
+    },
+    {
+      "type": "card_group",
+      "heading": "How it Works",
+      "cards": [
+        { "type": "card", "color": "yellow", "number": "1" /* ... */ }
+        // ...
+      ]
+    }
+  ]
+}
+```
 
 ---
 
@@ -398,9 +435,7 @@ Show code here and then come back to it later when talking about transformers an
 
 [.header: #1B3846, Source Serif Pro, alignment(center)]
 
-# How do we **structure** (or _model_)<br>this content in a **CMS**?
-
-NOTE: I think this should be more about applying "the ultimately flexible page" to "building with components" and how that can be modeled.
+# How do we apply<br>**the ultimately flexible page** to **content modeling** in a **CMS**?
 
 ^ Modeling affects cost many times.
 
@@ -563,82 +598,96 @@ This should be a sentence on how cost, CMS choices, and content modeling are all
 
 [.header: alignment(right), Source Serif Pro, text-scale(1.25)]
 
-# **_Hooray!_**
+# 🥪 **_Hooray!_** 🥪
 
-## We're all done!
-
-## Right?
+## We're all done! _Right?_
 
 ![right](images/snow-white-happy.gif)
 
 ---
 
-Still, that's not super productive for content editors. (Don't want to add a series of components for every blog post.)
+![original](../_assets/background/bg-yellow-twitter.png)
+
+[.header: #051C28, Source Serif Pro, alignment(center)]
+
+# The **flexible page model** is a<br>**solid base**, but it's not (_usually_) the _most productive_ for **content editors**.
 
 ---
 
-Introducing Templates
+![original](../_assets/background/bg-green-twitter.png)
+
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
+
+# _Templates_, built on top of the **flexible page**, help us create **efficient and repeatable patterns**.
 
 ^ Create new page type or model with repeatable patterns. Think: blog posts, generic content pages, etc.
 
 ---
 
-Example of CMS fields for a rigid type, like a blog post
+![original](../_assets/background/bg-blank.png)
+
+[.header: alignment(right), Source Serif Pro]
+
+## Create _templates_<br>(or _page types_) to provide **efficiency** to **content editors**.
+
+## Use **component-based fields** to add **flexibility** only where necessary.
+
+![right fit](images/210711-template-fields.png)
 
 ^ Templates streamline the flexible page by introducing _some_ amount of rigidity (i.e. productivity)
 
 ---
 
-This translates to the front end
+![original](../_assets/background/bg-blank.png)
 
-(Show code snippet)
+[.header: alignment(right), Source Serif Pro]
 
----
+### Putting the code together is **simple** because your **components** are already in place.
 
-Also gives you the ability to make it easier to add specific styling to some template (exceptions to global patterns).
+### Your template is just a<br>**custom mapping** of<br>**specific fields** to **components**.
 
----
+![right 45%](images/code--template.png)
 
-Benefits ...
-
----
-
-B #1: It enables you to scale down complexity to perfectly align with your editors' technical abilities
+^ Also gives you the ability to make it easier to add specific styling to some template (exceptions to global patterns).
 
 ---
 
-B #2: You already have a base engine in place on every project. All you have to do is define the components and decide where you want to introduce templates to help your editors, because templates in the code are still built on top of the flexible page.
+![original](../_assets/background/bg-shapes.png)
+
+[.header: Source Serif Pro, alignment(center)]
+
+# There are **two major benefits** to using **templates** ...
 
 ---
 
-Recap ...
+![original](../_assets/background/bg-blue-twitter.png)
+
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
+
+# (1) _Templates_ enable you to<br>**decrease complexity** and<br>**increase productivity**<br>to _perfectly align_ with the<br>**editors' technical abilities**.
 
 ---
 
-Start with a flexible base that pulls data from the CMS, transforms it, then maps it to frontnd components.
+![original](../_assets/background/bg-orange-twitter.png)
+
+[.header: #261000, Source Serif Pro, alignment(center)]
+
+# (2) You now have a<br>**base engine** in place.
+
+# A **powerful starting point**<br>for **every project**.
+
+^ All you have to do is define the components and decide where you want to introduce templates to help your editors, because templates in the code are still built on top of the flexible page.
 
 ---
 
-Use templates to introduce specific rules and/or styles to help content editors
+![original](../_assets/background/bg-shapes.png)
+
+# [tldr]
+
+1. Start with a **flexible base** that **pulls data** from the CMS, **transforms** it, then **maps** it to **front end components**.
+1. Use **templates** to **increase productivity** for your editors and/or **add specific styles** to repeatable pages.
+1. **Cost** and **CMS editing experience** are directly related to how you **model content**. Choose the **best approach** for each project independently.
 
 ---
 
-Consider cost of the CMS you're using when choosing how to implement components.
-
----
-
-Sean C Davis
-
-@seancdavis29
-
-seancdavis.com
-
----
-
-(It's sandwich time!)
-
----
-
-Thank you!
-
----
+![original](../_assets/slides/scd-thank-you.png)
