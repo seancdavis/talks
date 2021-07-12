@@ -88,7 +88,17 @@ build-lists: true
 
 ---
 
-(Photo of Stella)
+![original](../_assets/background/bg-blank.png)
+
+[.header: alignment(left), Source Serif Pro]
+
+![left](images/stella-dinosaur.jpg)
+
+## This is **Stella**.
+
+## She balances objects on her nose.
+
+## She gets rewarded handsomely for her efforts.
 
 ---
 
@@ -170,6 +180,8 @@ First correct answer wins some super cool Stackbit swag!
 
 ---
 
+[.build-lists: false]
+
 ![original](../_assets/background/bg-blank.png)
 
 # Benefits Over Monolithic CMS
@@ -215,7 +227,8 @@ First correct answer wins some super cool Stackbit swag!
 
 # _Or ..._<br>building a<br>**content schema** from scratch.
 
-^ Like being responsible for how your decisions affect cost
+^
+As powerful as this pattern is, it brings along challenges with it.
 
 ---
 
@@ -224,6 +237,9 @@ First correct answer wins some super cool Stackbit swag!
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
 # I believe we can find a<br>**_balanced_ approach**<br>that makes **developers**<br>_and_ **content editors** happy.
+
+^
+Sticking with theory because there are so many options.
 
 ---
 
@@ -467,6 +483,8 @@ First correct answer wins some super cool Stackbit swag!
 
 ---
 
+[.build-lists: false]
+
 ![original](../_assets/background/bg-blank.png)
 
 # Comparing the Options
@@ -490,11 +508,11 @@ First correct answer wins some super cool Stackbit swag!
 
 ---
 
-<!-- ![original](../_assets/background/bg-green-twitter.png) -->
+![original](../_assets/background/bg-green-twitter.png)
 
-<!-- [.header: #FFFFFF, Source Serif Pro, alignment(center)] -->
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
-This should be a sentence on how cost, CMS choices, and content modeling are all inter-dependent on one another.
+# The **cost** and **editing experience** are _directly tied_ to how you choose to **model content**.
 
 ---
 
