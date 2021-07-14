@@ -1,4 +1,6 @@
-![original](../_assets/background/bg-shapes-logo.png)
+theme: Sean C Davis
+
+![original](../../themes/seancdavis/backgrounds/bg-shapes-logo.png)
 
 # Settling Down<br>in a Jamstack World
 
@@ -6,7 +8,7 @@
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes.png)
 
 ### [Work]<br>_Ample_<br>Director of Technology
 
@@ -18,7 +20,7 @@
 
 # The Old Way
 
-![inline 50%](../_assets/logo/wordpress-logo.png)
+![inline 50%](../../themes/seancdavis/logos/wordpress-logo.png)
 
 ---
 
@@ -26,30 +28,30 @@
 
 [.column]
 
-![inline 50%](../_assets/logo/contentful-logo.png)
-![inline 50%](../_assets/logo/gatsby-logo.png)
-![inline 50%](../_assets/logo/netlify-logo.png)
+![inline 50%](../../themes/seancdavis/logos/contentful-logo.png)
+![inline 50%](../../themes/seancdavis/logos/gatsby-logo.png)
+![inline 50%](../../themes/seancdavis/logos/netlify-logo.png)
 
 [.column]
 
-![inline 50%](../_assets/logo/algolia-logo.png)
-![inline 50%](../_assets/logo/auth0-logo.png)
+![inline 50%](../../themes/seancdavis/logos/algolia-logo.png)
+![inline 50%](../../themes/seancdavis/logos/auth0-logo.png)
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes.png)
 
 # You get to choose the best tool for each job!
 
 ---
 
-![original](../_assets/background/bg-green-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-green-twitter.png)
 
-![inline 135%](../_assets/gif/so-many-choices.gif)
+![inline 135%](images/so-many-choices.gif)
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, text-scale(1.3), Source Serif Pro]
 
@@ -57,7 +59,7 @@
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, alignment(left), text-scale(1.3), DM Serif Display]
 [.text: #FFFFFF, Source Serif Pro]
@@ -70,7 +72,7 @@
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, alignment(left), text-scale(1.3), DM Serif Display]
 [.text: #FFFFFF, Source Serif Pro]
@@ -86,7 +88,7 @@
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, alignment(left), text-scale(1.3), DM Serif Display]
 [.text: #FFFFFF, Source Serif Pro]
@@ -99,7 +101,7 @@
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, text-scale(1.3), Source Serif Pro]
 
@@ -107,7 +109,7 @@
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, text-scale(1.3), Source Serif Pro]
 
@@ -115,7 +117,7 @@
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, alignment(left), text-scale(1.3), DM Serif Display]
 [.text: #FFFFFF, Source Serif Pro, alignment(center)]
@@ -132,7 +134,7 @@
 
 ---
 
-![original](../_assets/background/bg-shapes-logo-sandwich.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes-logo-sandwich.png)
 
 # Thank You
 

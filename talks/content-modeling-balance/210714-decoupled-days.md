@@ -1,7 +1,7 @@
-theme: Basic Talk
+theme: Sean C Davis
 build-lists: true
 
-![original](../_assets/background/bg-shapes-logo.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes-logo.png)
 
 # Balancing<br>_Flexibility_ & _Productivity_<br>in Content Modeling
 
@@ -78,7 +78,7 @@ build-lists: true
 
 ---
 
-![original](../_assets/slides/scd-intro.png)
+![original](../../themes/seancdavis/slides/scd-intro.png)
 
 ^ Three things about me ...
 
@@ -88,7 +88,7 @@ build-lists: true
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 [.header: alignment(left), Source Serif Pro]
 
@@ -102,7 +102,7 @@ build-lists: true
 
 ---
 
-![original](../_assets/background/bg-sandwiches.png)
+![original](../../themes/seancdavis/backgrounds/bg-sandwiches.png)
 
 # I ❤️ sandwiches and stories.
 
@@ -110,7 +110,7 @@ build-lists: true
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes.png)
 
 [.text: alignment(center), Source Serif Pro]
 
@@ -127,7 +127,7 @@ some super cool Stackbit swag!
 
 ---
 
-![original](../_assets/background/bg-green-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-green-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -135,7 +135,7 @@ some super cool Stackbit swag!
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # 1. Monolithic CMS
 
@@ -143,15 +143,15 @@ some super cool Stackbit swag!
 
 <br>
 
-![inline 40%](../_assets/logo/wordpress-logo.png)![inline 40%](../_assets/logo/squarespace-logo.png)
+![inline 40%](../../themes/seancdavis/logos/wordpress-logo.png)![inline 40%](../../themes/seancdavis/logos/squarespace-logo.png)
 
 <br>
 
-![inline 25%](../_assets/logo/rails-logo.png)![inline 25%](../_assets/logo/shopify-logo.png)![inline 15%](../_assets/logo/wix-logo.png)
+![inline 25%](../../themes/seancdavis/logos/rails-logo.png)![inline 25%](../../themes/seancdavis/logos/shopify-logo.png)![inline 15%](../../themes/seancdavis/logos/wix-logo.png)
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # 2. Decoupled/Headless CMS
 
@@ -159,15 +159,15 @@ some super cool Stackbit swag!
 
 <br>
 
-![inline 25%](../_assets/logo/contentful-logo.png)![inline 25%](../_assets/logo/sanity-logo.png)![inline 25%](../_assets/logo/prismic-logo.png)
+![inline 25%](../../themes/seancdavis/logos/contentful-logo.png)![inline 25%](../../themes/seancdavis/logos/sanity-logo.png)![inline 25%](../../themes/seancdavis/logos/prismic-logo.png)
 
 <br>
 
-![inline 35%](../_assets/logo/wordpress-logo.png)![inline 30%](../_assets/logo/agility-logo.png)
+![inline 35%](../../themes/seancdavis/logos/wordpress-logo.png)![inline 30%](../../themes/seancdavis/logos/agility-logo.png)
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # 3. Git-Based CMS
 
@@ -175,17 +175,17 @@ some super cool Stackbit swag!
 
 <br>
 
-![inline 40%](../_assets/logo/forestry-logo.png)![inline 40%](../_assets/logo/netlify-cms-logo.png)
+![inline 40%](../../themes/seancdavis/logos/forestry-logo.png)![inline 40%](../../themes/seancdavis/logos/netlify-cms-logo.png)
 
 <br>
 
-![inline 40%](../_assets/logo/stackbit-logo.png)
+![inline 40%](../../themes/seancdavis/logos/stackbit-logo.png)
 
 ---
 
 [.build-lists: false]
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # Benefits Over Monolithic CMS
 
@@ -209,7 +209,7 @@ some super cool Stackbit swag!
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 [.header: alignment(left), Source Serif Pro]
 
@@ -221,7 +221,7 @@ some super cool Stackbit swag!
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 ![right](images/robin-hood-money.gif)
 
 [.header: alignment(right), Source Serif Pro]
@@ -246,7 +246,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-yellow-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-yellow-twitter.png)
 
 [.header: #051C28, Source Serif Pro, alignment(center)]
 
@@ -254,7 +254,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 ![right fit](images/design--home-page--blurred.png)
 
 [.header: alignment(right), Source Serif Pro]
@@ -265,7 +265,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-orange-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-orange-twitter.png)
 
 [.header: #261000, Source Serif Pro, alignment(center)]
 
@@ -277,7 +277,7 @@ Sticking with theory because there are so many options.
 
 # Ultimate Flexibility
 
-![original](../_assets/background/bg-grey.png)
+![original](../../themes/seancdavis/backgrounds/bg-grey.png)
 
 ![inline fit](images/210709-flexible-page-form.png)
 
@@ -287,7 +287,7 @@ Sticking with theory because there are so many options.
 
 # Ultimate Flexibility
 
-![original](../_assets/background/bg-grey.png)
+![original](../../themes/seancdavis/backgrounds/bg-grey.png)
 
 ![inline fit](images/weird-sandwich.jpg)
 
@@ -297,7 +297,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-lime-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-lime-twitter.png)
 
 [.header: #000000, Source Serif Pro, alignment(center)]
 
@@ -307,7 +307,7 @@ Sticking with theory because there are so many options.
 
 ## Ultimate Productivity
 
-![original](../_assets/background/bg-grey.png)
+![original](../../themes/seancdavis/backgrounds/bg-grey.png)
 
 ![inline fit](images/210709-rigid-page-form.png)
 
@@ -319,7 +319,7 @@ Sticking with theory because there are so many options.
 
 ## Ultimate Productivity
 
-![original](../_assets/background/bg-grey.png)
+![original](../../themes/seancdavis/backgrounds/bg-grey.png)
 
 ![inline fit](images/deli-sandwich.jpg)
 
@@ -329,7 +329,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-pink-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-pink-twitter.png)
 
 [.header: #1B3846, Source Serif Pro, alignment(center)]
 
@@ -347,7 +347,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-green-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-green-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -359,7 +359,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -367,23 +367,23 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # [fit] 1. Use a Component-Based Framework
 
 <br>
 
-![inline fit](../_assets/logo/react-logo.png)![inline fit 25%](../_assets/logo/nextjs-logo.png)![inline fit 30%](../_assets/logo/gatsby-logo.png)
+![inline fit](../../themes/seancdavis/logos/react-logo.png)![inline fit 25%](../../themes/seancdavis/logos/nextjs-logo.png)![inline fit 30%](../../themes/seancdavis/logos/gatsby-logo.png)
 
 <br>
 
-![inline fit](../_assets/logo/vuejs-logo.png)![inline fit 40%](../_assets/logo/nuxtjs-logo.png)![inline fit](../_assets/logo/eleventy-logo.png)
+![inline fit](../../themes/seancdavis/logos/vuejs-logo.png)![inline fit 40%](../../themes/seancdavis/logos/nuxtjs-logo.png)![inline fit](../../themes/seancdavis/logos/eleventy-logo.png)
 
 ^ We build websites with components these days (server or client) to reduce duplicated code. Thinking of a website in terms of a global system makes it easier to add and edit over time.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # [fit] 2. Separate Content from Presentation
 
@@ -393,7 +393,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-yellow-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-yellow-twitter.png)
 
 [.header: #051C28, Source Serif Pro, alignment(center)]
 
@@ -403,7 +403,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-orange-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-orange-twitter.png)
 
 [.header: #261000, Source Serif Pro, alignment(center)]
 
@@ -415,7 +415,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-lime-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-lime-twitter.png)
 
 [.header: #000000, Source Serif Pro, alignment(center)]
 
@@ -423,7 +423,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 ```json
 {
@@ -450,7 +450,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-pink-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-pink-twitter.png)
 
 [.header: #1B3846, Source Serif Pro, alignment(center)]
 
@@ -460,7 +460,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 #### _Option #1_
 
@@ -470,13 +470,13 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 ![inline](images/210710-associated-components.png)
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 #### _Option #2_
 
@@ -488,7 +488,7 @@ Sticking with theory because there are so many options.
 
 [.build-lists: false]
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # Comparing the Options
 
@@ -511,7 +511,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-green-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-green-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -519,7 +519,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # CMS Hack: Conditional Fields
 
@@ -533,7 +533,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -541,7 +541,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # Simple Data Flow
 
@@ -549,7 +549,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # Expanded Data Flow
 
@@ -557,7 +557,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # Expanded Data Flow
 
@@ -565,7 +565,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 ### _An Example_
 
@@ -575,7 +575,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-orange-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-orange-twitter.png)
 
 [.header: #261000, Source Serif Pro, alignment(center)]
 
@@ -583,7 +583,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # Button Transformer
 
@@ -591,7 +591,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-lime-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-lime-twitter.png)
 
 [.header: #000000, Source Serif Pro, alignment(center)]
 
@@ -599,7 +599,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 # Button Mapper
 
@@ -607,7 +607,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-pink-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-pink-twitter.png)
 
 [.header: #1B3846, Source Serif Pro, alignment(center)]
 
@@ -615,7 +615,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 [.header: alignment(right), Source Serif Pro, text-scale(1.25)]
 
@@ -627,7 +627,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-yellow-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-yellow-twitter.png)
 
 [.header: #051C28, Source Serif Pro, alignment(center)]
 
@@ -635,7 +635,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-green-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-green-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -645,7 +645,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 [.header: alignment(right), Source Serif Pro]
 
@@ -659,7 +659,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blank.png)
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
 
 [.header: alignment(right), Source Serif Pro]
 
@@ -673,7 +673,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes.png)
 
 [.header: Source Serif Pro, alignment(center)]
 
@@ -681,7 +681,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -689,7 +689,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-orange-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-orange-twitter.png)
 
 [.header: #261000, Source Serif Pro, alignment(center)]
 
@@ -701,7 +701,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-sandwiches.png)
+![original](../../themes/seancdavis/backgrounds/bg-sandwiches.png)
 
 ### _Sandwich Spotter_
 
@@ -725,7 +725,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes.png)
 
 # [tldr]
 
@@ -735,4 +735,4 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/slides/scd-thank-you.png)
+![original](../../themes/seancdavis/slides/scd-thank-you.png)

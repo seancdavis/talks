@@ -1,6 +1,7 @@
+theme: Sean C Davis
 build-lists: true
 
-![original](../_assets/background/bg-shapes-logo.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes-logo.png)
 
 # Shaping Data to Fuel a<br>Front-End Engine
 
@@ -8,11 +9,11 @@ build-lists: true
 
 ---
 
-![original](../_assets/slides/scd-intro.png)
+![original](../../themes/seancdavis/slides/scd-intro.png)
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -20,7 +21,7 @@ build-lists: true
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -30,7 +31,7 @@ build-lists: true
 
 ---
 
-![original](../_assets/background/bg-green-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-green-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -42,7 +43,7 @@ build-lists: true
 
 [.column]
 
-![inline 50%](../_assets/logo/contentful-logo.png)
+![inline 50%](../../themes/seancdavis/logos/contentful-logo.png)
 
 <br>
 
@@ -58,7 +59,7 @@ Field
 
 [.column]
 
-![inline 50%](../_assets/logo/sanity-logo.png)
+![inline 50%](../../themes/seancdavis/logos/sanity-logo.png)
 
 <br>
 
@@ -78,7 +79,7 @@ Field
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, DM Serif Display, alignment(center), text-scale(1.25)]
 
@@ -90,7 +91,7 @@ Field
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes.png)
 
 ### _Introducing_ ...
 
@@ -98,7 +99,7 @@ Field
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes.png)
 
 ### ( _Nope._ )
 
@@ -106,7 +107,7 @@ Field
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes.png)
 
 ### _Or ..._
 
@@ -114,7 +115,7 @@ Field
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes.png)
 
 ### _Or ..._
 
@@ -122,7 +123,7 @@ Field
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes.png)
 
 ### _Or ..._
 
@@ -130,7 +131,7 @@ Field
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../../themes/seancdavis/backgrounds/bg-shapes.png)
 
 ### ( _Help!_ )
 
@@ -138,7 +139,7 @@ Field
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, DM Serif Display, alignment(center)]
 [.text: #FFFFFF, Source Serif Pro]
@@ -151,7 +152,7 @@ Field
 
 ---
 
-![original](../_assets/background/bg-green-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-green-twitter.png)
 
 [.header: #FFFFFF, DM Serif Display, alignment(center), text-scale(1.25)]
 
@@ -165,7 +166,7 @@ Field
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-blue-twitter.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -177,7 +178,7 @@ Field
 
 ---
 
-![original](../_assets/background/bg-green-twitter.png)
+![original](../../themes/seancdavis/backgrounds/bg-green-twitter.png)
 
 [.header: #FFFFFF, DM Serif Display, alignment(center)]
 [.text: #FFFFFF, Source Serif Pro]
@@ -189,4 +190,4 @@ Field
 
 ---
 
-![original](../_assets/slides/scd-thank-you.png)
+![original](../../themes/seancdavis/slides/scd-thank-you.png)
