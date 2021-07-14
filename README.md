@@ -8,7 +8,7 @@ I'm [Sean C Davis](https://www.seancdavis.com/) and I like to talk. These are th
 
 I'm likely available to speak at your event, join you on your podcast, host a workshop, etc.
 
-I can speak or teach on any of the subjects you see here, or many other subjects in the wide world of web development. For some examples, check out the [`talks` directory](./talks).
+I can speak or teach on any of the subjects you see here, or many other subjects in the wide world of web development. For some examples, check out the [`slides` directory](./slides).
 
 For inquiries, get the conversation started [on Twitter](https://twitter.com/seancdavis29) or [by email](mailto:sean@stackbit.com).
 
