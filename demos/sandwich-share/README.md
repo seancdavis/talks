@@ -1,34 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Sandwich Share (Demo)
 
-## Getting Started
+This site is a [Next.js](https://nextjs.org/) demo to to support content modeling best practices.
 
-First, run the development server:
+You can find the live demo at [https://sandwichshare.vercel.app/](https://sandwichshare.vercel.app/).
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Below you will find information about the theory behind the demo and how to run it locally. If you have questions or comments, feel free to bug me [on Twitter](https://twitter.com/seancdavis29) or [via email](mailto:sean@stackbit.com).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About the Demo
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+This project is built to demonstrate flexible page model and to show how templates can be built on top of a flexible page.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Markdown files in the `content` directory are the source files. Each file has a `template` property that must match a key from the `templateList` object found in `templates/index.tsx`. This is how content files are mapped to templates.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+The templates, each of which inherits from the base template (`templates/base-layout.tsx`), renders components using a mapper (`components/index.tsx`). This mapper determines whether or not the data can (and should) be transformed to ensure (very loosely) that the data looks right before rendering a component.
 
-## Learn More
+## Running Locally
 
-To learn more about Next.js, take a look at the following resources:
+As part of the monorepo, I'm using [PNPM](https://pnpm.js.org/) to manage dependencies. That's why this directory doesn't have a `package-lock.json` file. However, you can still run `npm install` to install dependencies:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    $ npm install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Then you can run the development server:
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    $ npm run dev
