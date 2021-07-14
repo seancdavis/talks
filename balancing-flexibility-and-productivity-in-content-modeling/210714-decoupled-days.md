@@ -102,7 +102,7 @@ build-lists: true
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](../_assets/background/bg-sandwiches.png)
 
 # I ❤️ sandwiches and stories.
 
@@ -116,11 +116,14 @@ build-lists: true
 
 # Spot the Sandwich!
 
-There is a hidden sandwich somewhere in the coming slides.
+There is a hidden sandwich somewhere
+in the coming slides.
 
-When you find it, go to **sandwichspot.dev** and fill out the form.
+When you find it, **tweet a screenshot**
+that **mentions @seancdavis29**.
 
-First correct answer wins some super cool Stackbit swag!
+First correct answer wins
+some super cool Stackbit swag!
 
 ---
 
@@ -232,7 +235,7 @@ As powerful as this pattern is, it brings along challenges with it.
 
 ---
 
-![original](../_assets/background/bg-blue-twitter.png)
+![original](images/bg-blue-sandwich.png)
 
 [.header: #FFFFFF, Source Serif Pro, alignment(center)]
 
@@ -334,7 +337,7 @@ Sticking with theory because there are so many options.
 
 ---
 
-![original](../_assets/background/bg-shapes.png)
+![original](images/bg-shapes-with-sandwich.png)
 
 [.header: #000000, Source Serif Pro, alignment(center)]
 
@@ -695,6 +698,30 @@ Sticking with theory because there are so many options.
 # A **powerful starting point**<br>for **every project**.
 
 ^ All you have to do is define the components and decide where you want to introduce templates to help your editors, because templates in the code are still built on top of the flexible page.
+
+---
+
+![original](../_assets/background/bg-sandwiches.png)
+
+### _Sandwich Spotter_
+
+# Let's find the winner!
+
+---
+
+![original](images/bg-blue-sandwich.png)
+
+[.header: #FFFFFF, Source Serif Pro, alignment(center)]
+
+# I believe we can find a<br>**_balanced_ approach**<br>that makes **developers**<br>_and_ **content editors** happy.
+
+---
+
+![original](images/bg-shapes-with-sandwich.png)
+
+[.header: #000000, Source Serif Pro, alignment(center)]
+
+# [fit] The key is to find<br>the perfect **balance** of<br>**flexibility** and **productivity**.
 
 ---
 
