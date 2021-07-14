@@ -1,0 +1,33 @@
+---
+label: "[Component] Jumbotron"
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Heading
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Body
+- name: button
+  type: field_group
+  config: {}
+  fields:
+  - name: button
+    type: include
+    config: {}
+    template: component-button
+    label: Button
+  label: Button

@@ -1,0 +1,43 @@
+---
+label: "[Component] Card"
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: color
+  type: color
+  label: Color
+  config:
+    required: false
+    color_format: Hex
+- name: number
+  type: number
+  label: Number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Body
+- name: subtext
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Subtext

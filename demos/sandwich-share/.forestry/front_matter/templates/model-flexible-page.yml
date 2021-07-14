@@ -1,0 +1,27 @@
+---
+label: "[Model] Flexible Page"
+hide_body: true
+fields:
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  hidden: true
+  default: default
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: components
+  type: blocks
+  template_types:
+  - component-jumbotron
+  - component-card-group
+  config:
+    min: 
+    max: 
+  label: Components
+pages:
+- content/flexible-page.md

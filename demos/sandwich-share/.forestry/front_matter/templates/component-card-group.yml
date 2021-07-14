@@ -1,0 +1,22 @@
+---
+label: "[Component] Card Group"
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: cards
+  type: field_group_list
+  fields:
+  - name: card
+    type: include
+    config: {}
+    template: component-card
+    label: Card
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: Cards

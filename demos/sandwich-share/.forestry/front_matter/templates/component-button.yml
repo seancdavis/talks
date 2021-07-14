@@ -1,0 +1,14 @@
+---
+label: "[Component] Button"
+hide_body: true
+fields:
+- name: label
+  type: text
+  config:
+    required: true
+  label: Label
+- name: url
+  type: text
+  config:
+    required: true
+  label: URL

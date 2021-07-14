@@ -1,0 +1,63 @@
+---
+label: "[Model] Home Page"
+hide_body: true
+fields:
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  default: home
+  hidden: true
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Intro
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: cta_label
+  type: text
+  config:
+    required: false
+  label: CTA Label
+- name: cta_link
+  type: text
+  config:
+    required: false
+  label: CTA Link
+- name: features_heading
+  type: text
+  config:
+    required: false
+  label: Features Heading
+- name: features
+  type: field_group_list
+  fields:
+  - name: feature
+    type: include
+    config: {}
+    template: component-card
+    label: Feature
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: Features
