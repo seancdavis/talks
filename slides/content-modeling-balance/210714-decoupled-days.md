@@ -84,6 +84,8 @@ build-lists: true
 
 ---
 
+![original](../../themes/seancdavis/backgrounds/bg-blank.png)
+
 # [fit] C
 
 ---
@@ -701,6 +703,18 @@ Sticking with theory because there are so many options.
 
 ---
 
+![original](../../themes/seancdavis/backgrounds/bg-lime-twitter.png)
+
+[.header: #000000, Source Serif Pro, alignment(center)]
+
+### Example:
+
+# sandwichshare.vercel.app
+
+### (Next.js + TypeScript + Markdown)
+
+---
+
 ![original](../../themes/seancdavis/backgrounds/bg-sandwiches.png)
 
 ### _Sandwich Spotter_
@@ -730,7 +744,7 @@ Sticking with theory because there are so many options.
 # [tldr]
 
 1. Start with a **flexible base** that **pulls data** from the CMS, **transforms** it, then **maps** it to **front end components**.
-1. Use **templates** to **increase productivity** for your editors and/or **add specific styles** to repeatable pages.
+1. Use **templates** to **decrease complexity** and **increase productivity** for your editors.
 1. **Cost** and **CMS editing experience** are directly related to how you **model content**. Choose the **best approach** for each project independently.
 
 ---
